@@ -1,2 +1,5 @@
 # ignore key files
 .key
+
+# Ignore master key file
+master.key
