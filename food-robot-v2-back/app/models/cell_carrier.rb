@@ -1,0 +1,2 @@
+class CellCarrier < ApplicationRecord
+end

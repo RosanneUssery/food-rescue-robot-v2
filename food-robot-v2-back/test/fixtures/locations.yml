@@ -1,0 +1,53 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  recip_category: MyString
+  donor_type: MyString
+  address: MyText
+  name: MyString
+  lat: 9.99
+  lng: 9.99
+  contact: MyText
+  website: MyString
+  admin_notes: MyText
+  public_notes: MyText
+  hours: MyText
+  region: one
+  twitter_handle: MyString
+  receipt_key: MyString
+  detailed_hours_json: MyText
+  email: MyText
+  phone: MyText
+  equipment_storage_info: MyText
+  food_storage_info: MyText
+  entry_info: MyText
+  exit_info: MyText
+  onsite_contact_info: MyText
+  active: false
+  location_type: 1
+
+two:
+  recip_category: MyString
+  donor_type: MyString
+  address: MyText
+  name: MyString
+  lat: 9.99
+  lng: 9.99
+  contact: MyText
+  website: MyString
+  admin_notes: MyText
+  public_notes: MyText
+  hours: MyText
+  region: two
+  twitter_handle: MyString
+  receipt_key: MyString
+  detailed_hours_json: MyText
+  email: MyText
+  phone: MyText
+  equipment_storage_info: MyText
+  food_storage_info: MyText
+  entry_info: MyText
+  exit_info: MyText
+  onsite_contact_info: MyText
+  active: false
+  location_type: 1

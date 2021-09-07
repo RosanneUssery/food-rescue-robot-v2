@@ -1,0 +1,2 @@
+class TransportType < ApplicationRecord
+end

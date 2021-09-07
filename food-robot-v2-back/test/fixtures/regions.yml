@@ -1,0 +1,65 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  lat: 9.99
+  lng: 9.99
+  name: MyString
+  website: MyString
+  address: MyText
+  notes: MyText
+  handbook_url: MyString
+  prior_lbs_rescued: 1
+  prior_num_pickups: 1
+  twitter_key: MyString
+  twitter_secret: MyString
+  twitter_token: MyString
+  twitter_token_secret: MyString
+  twitter_last_poundage: 1
+  twitter_last_timestamp: 2021-09-06 11:48:33
+  title: MyString
+  tagline: MyString
+  logo_file_name: MyString
+  logo_content_type: MyString
+  logo_file_size: 1
+  logo_updated_at: 2021-09-06 11:48:33
+  phone: MyString
+  tax: one
+  welcome_email_text: MyText
+  splash_html: MyText
+  weight_unit: MyString
+  time_zone: MyText
+  volunteer_coordinator_email: MyString
+  post_pickup_emails: false
+  unschedule_self: false
+
+two:
+  lat: 9.99
+  lng: 9.99
+  name: MyString
+  website: MyString
+  address: MyText
+  notes: MyText
+  handbook_url: MyString
+  prior_lbs_rescued: 1
+  prior_num_pickups: 1
+  twitter_key: MyString
+  twitter_secret: MyString
+  twitter_token: MyString
+  twitter_token_secret: MyString
+  twitter_last_poundage: 1
+  twitter_last_timestamp: 2021-09-06 11:48:33
+  title: MyString
+  tagline: MyString
+  logo_file_name: MyString
+  logo_content_type: MyString
+  logo_file_size: 1
+  logo_updated_at: 2021-09-06 11:48:33
+  phone: MyString
+  tax: two
+  welcome_email_text: MyText
+  splash_html: MyText
+  weight_unit: MyString
+  time_zone: MyText
+  volunteer_coordinator_email: MyString
+  post_pickup_emails: false
+  unschedule_self: false
