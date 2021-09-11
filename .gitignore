@@ -3,3 +3,6 @@
 
 # Ignore master key file
 master.key
+
+#ruby gitignore
+.config
