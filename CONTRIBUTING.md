@@ -14,4 +14,6 @@ If you are not the author of a PR branch, please leave constructive and helpful 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. For more information, please see our [Code of Conduct](code_of_conduct.md).
 
 ## What Should I Know Before I Get Started?
-Since this is a Ruby project, if you intend to work on the back end, you will want to have Ruby 3.0.2 installed on your machine. We are using Vue v.2.5.2 on the front end, so familiarity with how to use and install these frameworks will help you get started. Basic Git commands and utilization
+Since this is a Ruby project, if you intend to work on the back end, you will want to have Ruby 3.0.2 installed on your machine. We are using Vue v.2.5.2 on the front end as well. Familiarity with how to use and install these frameworks will help you get started. Basic Git commands and utilization will also help you as well as an understanding of Ruby's `gem` commands and Vue's `npm` or `yarn` package builders.
+
+Having an IDE (integrated development environment) will also help. Some free ones that work well are [Atom](https://github.com/atom/atom#installing) and [Visual Studio Code](https://code.visualstudio.com/).
