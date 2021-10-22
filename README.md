@@ -1,8 +1,8 @@
 Welcome to food_rescue_robot_v2!
 
-This is a new repo intended for infrastructure for the new and improved Food Rescue Robot (v2). Denver Food Rescue currently uses the [food-rescue-robot](https://github.com/boulder-food-rescue/food-rescue-robot), but unfortunately it has not been maintained much of its functionality is deprecated or outdated. 
+This is a new repo intended for infrastructure for the new and improved Food Rescue Robot (v2). Denver Food Rescue currently uses the [food-rescue-robot](https://github.com/boulder-food-rescue/food-rescue-robot), but unfortunately it has not been maintained and much of its functionality is deprecated or outdated.
 
-FRRv2 is intended to be its replacement with fresh user stories from the volunteers who use the current application. Our goal is to build and maintain it to be a resource they can use for many years to come. We will be using Ruby on Rails and Vue JS to create this new project. 
+FRRv2 is intended to be its replacement with fresh user stories from the volunteers who use the current application. Our goal is to build and maintain it to be a resource they can use for many years to come. We will be using Ruby on Rails and Vue JS to create this new project.
 
 Proposed Project Timeline:
 * September 2021 - User stories gathered, repos initialized and infrastructure is set up
@@ -12,4 +12,3 @@ Proposed Project Timeline:
 
 How can you help?
 - Reach out to food.rescue.robot@gmail.com with questions or if you would like to volunteer!
-
