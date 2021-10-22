@@ -12,3 +12,5 @@ Proposed Project Timeline:
 
 How can you help?
 - Reach out to food.rescue.robot@gmail.com with questions or if you would like to volunteer!
+
+Please read through the [Contributing](CONTRIBUTING.md) and [Git How-To](git_how_to.md) files before diving into any contributions.
