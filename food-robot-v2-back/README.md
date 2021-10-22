@@ -127,7 +127,7 @@ To get a local copy up and running follow these simple example steps.
    ```
 4. Migrate the DB
    ```sh
-   docker-compose api rails db:setup
+   docker-compose run api rails db:setup
    ```
 5. Spin up the app
    ```sh
