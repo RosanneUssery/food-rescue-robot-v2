@@ -1,10 +1,5 @@
 # README
 
-This is the back end for Food Rescue Robot v2. More details to come. 
-
-
-
-
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
