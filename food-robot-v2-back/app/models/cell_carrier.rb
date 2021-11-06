@@ -1,2 +1,0 @@
-class CellCarrier < ApplicationRecord
-end
