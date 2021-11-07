@@ -135,6 +135,12 @@ To get a local copy up and running follow these simple example steps.
    ```
 6. Navigate to the [API](http://localhost:3000)
 
+
+## Testing
+  ```sh
+  docker-compose run api bundle exec rspec
+  ```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 

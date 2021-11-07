@@ -5,8 +5,11 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :validatable
 
   validates :encrypted_password, :username, :access_level, presence: true
-  # validates :password, length - fill in/expand upon validations when password requirements are set
-  # validates :username, format: /regex/ - fill in when username requirements are set
+
+  # validtions to complete when password and username requirements are decided
+  # validates :password, length:
+  # validates :username, format: /regex/
+
   validates :username, uniqueness: true
 
   enum access_level: [:staff, :volunteer]
