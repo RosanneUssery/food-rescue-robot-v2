@@ -129,15 +129,11 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    docker-compose run api rails db:setup
    ```
-5. Install dependencies
-   ```sh
-   docker-compose run api bundle install
-   ```
-6. Spin up the app
+5. Spin up the app
    ```sh
    docker-compose up # Optionally, `-d` to run in the background
    ```
-7. Navigate to the [API](http://localhost:3000)
+6. Navigate to the [API](http://localhost:3000)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
