@@ -94,14 +94,5 @@ RSpec.configure do |config|
   Kernel.srand config.seed
 =end
 
-  # factory bot configuration
-  config.include FactoryBot::Syntax::Methods
-  
-  # shoulda matchers configuration
-  Shoulda::Matchers.configure do |config|
-    config.integrate do |with|
-      with.test_framework :rspec
-      with.library :rails
-    end
-  end
+
 end
