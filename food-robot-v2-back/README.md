@@ -180,7 +180,19 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+### Notes on contributing <!-- this can be organized better later -->
+* Creating tables with `uuid` primary keys:
+  * Generate the migration as usual via the command line (eg, `docker-compose run api rails g migration CreateUsers name:string`)
+  * Before executing the migration, open the migration file that was generated and add `id: :uuid` as an argument in the `change` method. eg:
+    ```rb
+    class DeviseCreateUsers < ActiveRecord::Migration[6.1]
+      def change
+        create_table :users, id: :uuid do |t|
+        ...
+      end
+      ...
+    end
+    ```
 
 <!-- LICENSE -->
 ## License
