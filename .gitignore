@@ -6,3 +6,5 @@ master.key
 
 #ruby gitignore
 .config
+
+.DS_Store

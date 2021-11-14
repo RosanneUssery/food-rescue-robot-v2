@@ -2,8 +2,8 @@
 <!-- Give a basic summary of which story this PR is addressing-->
 
 # PR Checklist
-[ ] Tests written
-[ ] Manual testing on local
+- [ ] Tests written
+- [ ] Manual testing on local
 
 # Additional Notes to Reviewers
 <!-- Is there anything in particular you want reviewers to look for or help you with? -->
