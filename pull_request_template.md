@@ -1,4 +1,6 @@
 # User Story
+<!-- which issue is this PR associated with? (PRs should ideally be associated with an issue on our project board with some exceptions!)-->
+Closes #<ISSUE NUMBER>
 <!-- Give a basic summary of which story this PR is addressing-->
 
 # PR Checklist
