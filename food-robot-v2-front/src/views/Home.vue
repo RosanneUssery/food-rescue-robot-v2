@@ -1,19 +1,24 @@
 <template>
-  <div class="home">
-    <HelloWorld msg="this is my vue component"/>
+  <div class="HomeComponent text-center">
+    <h1 class="text-3xl font-bold">Denver Food Rescue</h1>
+    <img class="h-48 w-auto mt-16 mx-auto" src="../assets/dfr-150x150.png" alt="">
   </div>
 </template>
 
 <script lang="ts">
   import Vue from 'vue';
   import { Component } from 'vue-property-decorator';
-  import HelloWorld from '../components/HelloWorld.vue'
 
-  @Component({
-    components: {
-      HelloWorld
-    }
-  })
+  @Component
   export default class extends Vue {
+
+
   }
 </script>
+
+<style>
+
+  .HomeComponent {
+  }
+
+</style>
