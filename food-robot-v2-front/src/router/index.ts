@@ -1,7 +1,5 @@
 import Vue from 'vue'
 import VueRouter, { RouteConfig } from 'vue-router'
-import Home from '../views/Home.vue'
-import LoggedIn from '../views/LoggedIn.vue';
 
 Vue.use(VueRouter)
 
@@ -9,12 +7,12 @@ const routes: Array<RouteConfig> = [
   {
     path: '/',
     name: 'LoggedIn',
-    component: LoggedIn,
+    component: () => import(/* webpackChunkName: "logged-in" */ '../views/LoggedIn.vue'),
     children: [
       {
         path: '/',
         name: 'Home',
-        component: Home
+        component: () => import(/* webpackChunkName: "home" */ '../views/Home.vue'),
 
       },
       {
