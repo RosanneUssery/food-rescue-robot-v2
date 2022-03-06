@@ -4,21 +4,3 @@
     <img class="h-48 w-auto mt-16 mx-auto" src="../assets/dfr-150x150.png" alt="">
   </div>
 </template>
-
-<script lang="ts">
-  import Vue from 'vue';
-  import { Component } from 'vue-property-decorator';
-
-  @Component
-  export default class extends Vue {
-
-
-  }
-</script>
-
-<style>
-
-  .HomeComponent {
-  }
-
-</style>
