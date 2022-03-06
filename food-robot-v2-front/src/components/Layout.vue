@@ -1,7 +1,7 @@
 <template>
-    <div class="LayoutComponent max-w-7xl mx-auto mt-8 ">
-        <slot></slot>
-    </div>
+  <div class="LayoutComponent max-w-7xl mx-auto mt-8 ">
+    <slot></slot>
+  </div>
 </template>
 
 <script lang="ts">
