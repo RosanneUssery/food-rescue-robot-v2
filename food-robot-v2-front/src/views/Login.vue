@@ -64,9 +64,3 @@
   }
 </script>
 
-<style>
-
-  .LoggedInComponent {
-  }
-
-</style>
